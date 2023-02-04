@@ -1,4 +1,4 @@
-# atubigdataanalyticsproject1
+# Big Data Analytics Project 1 
 Big Data Analytics Project 1 
 
 This reposiitory is used to store data for the Big Data Analytics Project 1
